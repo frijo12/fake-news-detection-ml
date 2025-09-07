@@ -96,11 +96,11 @@ This project aims to:
 
 ### 🔴 Fake News Prediction
 
-![Fake Prediction](screenshots/fake_prediction.png)
+![Fake Prediction](fake-news-detection/screenshots/fake_prediction.png)
 
 ### 🟢 Real News Prediction
 
-![Real Prediction](screenshots/real_prediction.png)
+![Real Prediction](fake-news-detection/screenshots/real_prediction.png)
 
 ---
 
@@ -116,7 +116,7 @@ cd fake-news-detection
 ### 2️⃣ Download Best Model
 
 The trained **Random Forest model** is too large to keep in the repo.
-👉 Download it from **[Release v1.0.0 – Fake News Detection: First Release](https://github.com/your-username/fake-news-detection/releases/tag/v1.0.0)**.
+👉 Download it from **[Release v1.0.0 – Fake News Detection: First Release](https://github.com/frijo12/fake-news-detection-ml/releases/tag/v1.0.0)**.
 
 Save it as:
 
